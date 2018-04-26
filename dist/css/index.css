@@ -1,0 +1,24 @@
+body {
+  width: 100%;
+}.hh {
+  font-size: 0.4rem;
+  -webkit-transform: scale(0.2);
+  -ms-transform: scale(0.2);
+  transform: scale(0.2);
+}
+
+.kk {
+  width: 1.066667rem;
+  height: 1.066667rem;
+  margin-left: 0.8rem;
+  margin-top: 0.56rem;
+  margin-bottom: 1rem;
+  background: red;
+}
+
+img {
+  width: 5.866667rem;
+  height: 1.466667rem;
+}.aa .bb {
+  color: red;
+}
