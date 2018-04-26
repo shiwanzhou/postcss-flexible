@@ -1,6 +1,6 @@
 
 
-# postcss + flexb + rem 方案 #
+# webpack3 + postcss + flexb + rem 方案 #
 
 
 1. postcss 基本配置；
